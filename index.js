@@ -1,5 +1,3 @@
 console.log("Hello world!");
 
-console.log("Leu leu!");
-
-console.log("haha! sdfasdfad");
+console.log("Branch master here!");
