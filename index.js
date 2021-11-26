@@ -7,3 +7,4 @@ console.log("Branch master here haha kaka!");
 3;
 4;
 5;
+6;
